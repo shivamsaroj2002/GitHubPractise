@@ -1,4 +1,4 @@
-# GitHubPractiseShivamSaroj
+# GitHubPractise
 Practise pull request in github !
 
 If you are new to github you can try out here along with me.
